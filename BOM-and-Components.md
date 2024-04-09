@@ -23,6 +23,11 @@ BOM for Crayford Focuser
 1 x 113mm x 10mm x 1mm Rubber Sheet -- https://www.amazon.co.uk/gp/product/B00MTW4VRA/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1
 
 
+
+
+
+
+
 BOM for Carry Case
 
 1 x Printed Parts (Base, Lid, Handle, Clips)
