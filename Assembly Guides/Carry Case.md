@@ -4,7 +4,7 @@ Fit the 4 x Rubber Feet (25mm x 15mm) to the Base_x1.stl, then.
 
 Fit 4x M3x30 SHCS to the Base_x1.stl on the 4 sides (careful to not split the print)
 
-Cut the Block of Foam (210mm x 210mm x 110mm) to the diameter of the microscope (if including the Filter slide tray mod offset the cut hole to take account of the handle sticking out the side) and fit into the base, then.
+Cut the Block of Foam (210mm x 210mm x 110mm) to the diameter of the microscope and fit into the base, then.
 
 Instal the 4 x 4x3x5 Heat Set Inserts into the [a]_Handle_x1.stl, then.
 
